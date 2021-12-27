@@ -1,0 +1,37 @@
+@import "css-ui-dashboard/variables";
+@import "css-ui-dashboard/mixins";
+
+// Plugins CSS
+@import "css-ui-dashboard/plugins/plugin-animate-bootstrap-notify";
+@import "css-ui-dashboard/plugins/plugin-perfect-scrollbar";
+
+// Core CSS
+@import "css-ui-dashboard/buttons";
+@import "css-ui-dashboard/inputs";
+@import "css-ui-dashboard/typography";
+@import "css-ui-dashboard/misc";
+@import "css-ui-dashboard/checkboxes-radio";
+
+// components
+@import "css-ui-dashboard/navbar";
+@import "css-ui-dashboard/page-header";
+@import "css-ui-dashboard/dropdown";
+@import "css-ui-dashboard/alerts";
+@import "css-ui-dashboard/images";
+@import "css-ui-dashboard/nucleo-outline";
+@import "css-ui-dashboard/tables";
+@import "css-ui-dashboard/sidebar-and-main-panel";
+@import "css-ui-dashboard/footers";
+@import "css-ui-dashboard/fixed-plugin";
+
+// cards
+@import "css-ui-dashboard/cards";
+@import "css-ui-dashboard/cards/card-plain";
+@import "css-ui-dashboard/cards/card-chart";
+@import "css-ui-dashboard/cards/card-user";
+@import "css-ui-dashboard/cards/card-map";
+
+@import "css-ui-dashboard/responsive";
+
+// react
+@import "css-ui-dashboard/react/react-differences";
